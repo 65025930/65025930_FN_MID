@@ -1,0 +1,54 @@
+.flexbox{
+    display: flex;
+    width: 100px;
+    padding: 50px;
+}
+
+.a{
+    padding: 35px;
+    flex: 10%;
+}
+
+.box2{
+    padding: 30px;
+    flex: 50%;
+}
+
+.B01{
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #7d7979;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+.B02{
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #7d7979;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+.b{
+    color: rgb(255, 236, 236);
+    background-color: #625858;
+    width: auto;
+}
+
+.M02{
+    color: rgb(28, 44, 166);
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #4817d9;
+    overflow: hidden;
+    text-overflow: clip;
+}
+
+.M00{
+    color: rgb(132, 123, 123);
+}
+
+.M11{
+    color:rgb(132, 123, 123);
+}
